@@ -12,7 +12,7 @@
 
 ## Contributing
 
-This repository is contribution-friendly :smiley:. If you're an algorithms enthusiast and want to add or improve an algorithm your contribution is welcome! Please be sure to include tests :kissing_heart:
+This repository is contribution-friendly :smiley:. If you're an algorithms enthusiast and want to add or improve an algorithm your contribution is welcome!
 
 #### Adding a new algorithm
 
