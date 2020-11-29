@@ -1,5 +1,7 @@
-# Data Structure and Algorithm
+# Data Structure and Algorithms
 
+## Maintainer: DSC IIIT Kota
+* Recursion
 * Tree 
 * Graph
 * Dynamic Programming
@@ -7,6 +9,7 @@
 ## Contributing
 
 This repository is contribution-friendly :smiley:. If you're an algorithms enthusiast and want to add or improve an algorithm your contribution is welcome!
+You can also contribute to improve the Readme.md
 
 #### Adding a new algorithm
 
